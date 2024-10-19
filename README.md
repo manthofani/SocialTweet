@@ -10,7 +10,7 @@ Social Network Application build using Spring Boot as a Backend and React as Fro
 ### How To Install
 - Clone the project
 - Check API and SocialTweet Folder
-- Read respective readme folder to run them.
+- Read respective readme in API and social-tweet folder to run them.
 
 ### Feature
 - Register 
